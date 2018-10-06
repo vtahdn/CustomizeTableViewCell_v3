@@ -8,12 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		FA76BB28215FA9A300421A71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB27215FA9A300421A71 /* AppDelegate.swift */; };
-		FA76BB2A215FA9A300421A71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB29215FA9A300421A71 /* ViewController.swift */; };
 		FA76BB2D215FA9A300421A71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB2B215FA9A300421A71 /* Main.storyboard */; };
 		FA76BB2F215FA9A300421A71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB2E215FA9A300421A71 /* Assets.xcassets */; };
 		FA76BB32215FA9A300421A71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB30215FA9A300421A71 /* LaunchScreen.storyboard */; };
 		FA76BB3D215FA9A300421A71 /* CustomizeTableViewCell_v3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB3C215FA9A300421A71 /* CustomizeTableViewCell_v3Tests.swift */; };
 		FA76BB48215FA9A300421A71 /* CustomizeTableViewCell_v3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB47215FA9A300421A71 /* CustomizeTableViewCell_v3UITests.swift */; };
+		FA76BB64215FAA1300421A71 /* Banner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB56215FAA1300421A71 /* Banner.jpg */; };
+		FA76BB65215FAA1300421A71 /* Footer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB57215FAA1300421A71 /* Footer.jpg */; };
+		FA76BB66215FAA1300421A71 /* Linh Ka 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB58215FAA1300421A71 /* Linh Ka 1.jpg */; };
+		FA76BB67215FAA1300421A71 /* Linh Ka 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB59215FAA1300421A71 /* Linh Ka 11.jpg */; };
+		FA76BB68215FAA1300421A71 /* Linh Ka 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5A215FAA1300421A71 /* Linh Ka 2.jpg */; };
+		FA76BB69215FAA1300421A71 /* Linh Ka 22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5B215FAA1300421A71 /* Linh Ka 22.jpg */; };
+		FA76BB6A215FAA1300421A71 /* Linh Ka 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5C215FAA1300421A71 /* Linh Ka 3.jpg */; };
+		FA76BB6B215FAA1300421A71 /* Linh Ka 33.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5D215FAA1300421A71 /* Linh Ka 33.jpg */; };
+		FA76BB6C215FAA1300421A71 /* Linh Ka 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5E215FAA1300421A71 /* Linh Ka 4.jpg */; };
+		FA76BB6D215FAA1300421A71 /* Linh Ka 44.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB5F215FAA1300421A71 /* Linh Ka 44.jpg */; };
+		FA76BB6E215FAA1300421A71 /* Linh Ka 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB60215FAA1300421A71 /* Linh Ka 5.jpg */; };
+		FA76BB6F215FAA1300421A71 /* Linh Ka 55.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB61215FAA1300421A71 /* Linh Ka 55.jpg */; };
+		FA76BB70215FAA1300421A71 /* Linh Ka 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB62215FAA1300421A71 /* Linh Ka 6.jpg */; };
+		FA76BB71215FAA1300421A71 /* Linh Ka 66.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB63215FAA1300421A71 /* Linh Ka 66.jpg */; };
+		FA76BB73215FAA7F00421A71 /* MasterTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB72215FAA7F00421A71 /* MasterTableViewController.swift */; };
+		FA76BB75215FAB1E00421A71 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB74215FAB1E00421A71 /* DetailViewController.swift */; };
+		FA76BB78215FABEA00421A71 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA76BB76215FABEA00421A71 /* CustomTableViewCell.swift */; };
+		FA76BB79215FABEA00421A71 /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB77215FABEA00421A71 /* CustomTableViewCell.xib */; };
+		FA76BB80215FACF200421A71 /* 1stars.png in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB7B215FACF200421A71 /* 1stars.png */; };
+		FA76BB81215FACF200421A71 /* 2stars.png in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB7C215FACF200421A71 /* 2stars.png */; };
+		FA76BB82215FACF200421A71 /* 3stars.png in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB7D215FACF200421A71 /* 3stars.png */; };
+		FA76BB83215FACF200421A71 /* 4stars.png in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB7E215FACF200421A71 /* 4stars.png */; };
+		FA76BB84215FACF200421A71 /* 5stars.png in Resources */ = {isa = PBXBuildFile; fileRef = FA76BB7F215FACF200421A71 /* 5stars.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +58,6 @@
 /* Begin PBXFileReference section */
 		FA76BB24215FA9A300421A71 /* CustomizeTableViewCell_v3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomizeTableViewCell_v3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA76BB27215FA9A300421A71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FA76BB29215FA9A300421A71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FA76BB2C215FA9A300421A71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FA76BB2E215FA9A300421A71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA76BB31215FA9A300421A71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +68,29 @@
 		FA76BB43215FA9A300421A71 /* CustomizeTableViewCell_v3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomizeTableViewCell_v3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA76BB47215FA9A300421A71 /* CustomizeTableViewCell_v3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizeTableViewCell_v3UITests.swift; sourceTree = "<group>"; };
 		FA76BB49215FA9A300421A71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA76BB56215FAA1300421A71 /* Banner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Banner.jpg; sourceTree = "<group>"; };
+		FA76BB57215FAA1300421A71 /* Footer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Footer.jpg; sourceTree = "<group>"; };
+		FA76BB58215FAA1300421A71 /* Linh Ka 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 1.jpg"; sourceTree = "<group>"; };
+		FA76BB59215FAA1300421A71 /* Linh Ka 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 11.jpg"; sourceTree = "<group>"; };
+		FA76BB5A215FAA1300421A71 /* Linh Ka 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 2.jpg"; sourceTree = "<group>"; };
+		FA76BB5B215FAA1300421A71 /* Linh Ka 22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 22.jpg"; sourceTree = "<group>"; };
+		FA76BB5C215FAA1300421A71 /* Linh Ka 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 3.jpg"; sourceTree = "<group>"; };
+		FA76BB5D215FAA1300421A71 /* Linh Ka 33.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 33.jpg"; sourceTree = "<group>"; };
+		FA76BB5E215FAA1300421A71 /* Linh Ka 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 4.jpg"; sourceTree = "<group>"; };
+		FA76BB5F215FAA1300421A71 /* Linh Ka 44.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 44.jpg"; sourceTree = "<group>"; };
+		FA76BB60215FAA1300421A71 /* Linh Ka 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 5.jpg"; sourceTree = "<group>"; };
+		FA76BB61215FAA1300421A71 /* Linh Ka 55.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 55.jpg"; sourceTree = "<group>"; };
+		FA76BB62215FAA1300421A71 /* Linh Ka 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 6.jpg"; sourceTree = "<group>"; };
+		FA76BB63215FAA1300421A71 /* Linh Ka 66.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Linh Ka 66.jpg"; sourceTree = "<group>"; };
+		FA76BB72215FAA7F00421A71 /* MasterTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterTableViewController.swift; sourceTree = "<group>"; };
+		FA76BB74215FAB1E00421A71 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		FA76BB76215FABEA00421A71 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		FA76BB77215FABEA00421A71 /* CustomTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
+		FA76BB7B215FACF200421A71 /* 1stars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1stars.png; sourceTree = "<group>"; };
+		FA76BB7C215FACF200421A71 /* 2stars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2stars.png; sourceTree = "<group>"; };
+		FA76BB7D215FACF200421A71 /* 3stars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3stars.png; sourceTree = "<group>"; };
+		FA76BB7E215FACF200421A71 /* 4stars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4stars.png; sourceTree = "<group>"; };
+		FA76BB7F215FACF200421A71 /* 5stars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5stars.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +141,16 @@
 		FA76BB26215FA9A300421A71 /* CustomizeTableViewCell_v3 */ = {
 			isa = PBXGroup;
 			children = (
+				FA76BB55215FAA1300421A71 /* LK2 */,
 				FA76BB27215FA9A300421A71 /* AppDelegate.swift */,
-				FA76BB29215FA9A300421A71 /* ViewController.swift */,
+				FA76BB72215FAA7F00421A71 /* MasterTableViewController.swift */,
+				FA76BB74215FAB1E00421A71 /* DetailViewController.swift */,
 				FA76BB2B215FA9A300421A71 /* Main.storyboard */,
 				FA76BB2E215FA9A300421A71 /* Assets.xcassets */,
 				FA76BB30215FA9A300421A71 /* LaunchScreen.storyboard */,
 				FA76BB33215FA9A300421A71 /* Info.plist */,
+				FA76BB76215FABEA00421A71 /* CustomTableViewCell.swift */,
+				FA76BB77215FABEA00421A71 /* CustomTableViewCell.xib */,
 			);
 			path = CustomizeTableViewCell_v3;
 			sourceTree = "<group>";
@@ -123,6 +171,40 @@
 				FA76BB49215FA9A300421A71 /* Info.plist */,
 			);
 			path = CustomizeTableViewCell_v3UITests;
+			sourceTree = "<group>";
+		};
+		FA76BB55215FAA1300421A71 /* LK2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA76BB7A215FACF200421A71 /* Star Rating Images */,
+				FA76BB56215FAA1300421A71 /* Banner.jpg */,
+				FA76BB57215FAA1300421A71 /* Footer.jpg */,
+				FA76BB58215FAA1300421A71 /* Linh Ka 1.jpg */,
+				FA76BB59215FAA1300421A71 /* Linh Ka 11.jpg */,
+				FA76BB5A215FAA1300421A71 /* Linh Ka 2.jpg */,
+				FA76BB5B215FAA1300421A71 /* Linh Ka 22.jpg */,
+				FA76BB5C215FAA1300421A71 /* Linh Ka 3.jpg */,
+				FA76BB5D215FAA1300421A71 /* Linh Ka 33.jpg */,
+				FA76BB5E215FAA1300421A71 /* Linh Ka 4.jpg */,
+				FA76BB5F215FAA1300421A71 /* Linh Ka 44.jpg */,
+				FA76BB60215FAA1300421A71 /* Linh Ka 5.jpg */,
+				FA76BB61215FAA1300421A71 /* Linh Ka 55.jpg */,
+				FA76BB62215FAA1300421A71 /* Linh Ka 6.jpg */,
+				FA76BB63215FAA1300421A71 /* Linh Ka 66.jpg */,
+			);
+			path = LK2;
+			sourceTree = "<group>";
+		};
+		FA76BB7A215FACF200421A71 /* Star Rating Images */ = {
+			isa = PBXGroup;
+			children = (
+				FA76BB7B215FACF200421A71 /* 1stars.png */,
+				FA76BB7C215FACF200421A71 /* 2stars.png */,
+				FA76BB7D215FACF200421A71 /* 3stars.png */,
+				FA76BB7E215FACF200421A71 /* 4stars.png */,
+				FA76BB7F215FACF200421A71 /* 5stars.png */,
+			);
+			path = "Star Rating Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +311,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA76BB6E215FAA1300421A71 /* Linh Ka 5.jpg in Resources */,
+				FA76BB66215FAA1300421A71 /* Linh Ka 1.jpg in Resources */,
+				FA76BB83215FACF200421A71 /* 4stars.png in Resources */,
+				FA76BB6B215FAA1300421A71 /* Linh Ka 33.jpg in Resources */,
 				FA76BB32215FA9A300421A71 /* LaunchScreen.storyboard in Resources */,
+				FA76BB6D215FAA1300421A71 /* Linh Ka 44.jpg in Resources */,
+				FA76BB80215FACF200421A71 /* 1stars.png in Resources */,
+				FA76BB6C215FAA1300421A71 /* Linh Ka 4.jpg in Resources */,
+				FA76BB6A215FAA1300421A71 /* Linh Ka 3.jpg in Resources */,
 				FA76BB2F215FA9A300421A71 /* Assets.xcassets in Resources */,
+				FA76BB69215FAA1300421A71 /* Linh Ka 22.jpg in Resources */,
+				FA76BB70215FAA1300421A71 /* Linh Ka 6.jpg in Resources */,
+				FA76BB6F215FAA1300421A71 /* Linh Ka 55.jpg in Resources */,
+				FA76BB81215FACF200421A71 /* 2stars.png in Resources */,
+				FA76BB65215FAA1300421A71 /* Footer.jpg in Resources */,
+				FA76BB67215FAA1300421A71 /* Linh Ka 11.jpg in Resources */,
+				FA76BB68215FAA1300421A71 /* Linh Ka 2.jpg in Resources */,
+				FA76BB79215FABEA00421A71 /* CustomTableViewCell.xib in Resources */,
+				FA76BB84215FACF200421A71 /* 5stars.png in Resources */,
 				FA76BB2D215FA9A300421A71 /* Main.storyboard in Resources */,
+				FA76BB82215FACF200421A71 /* 3stars.png in Resources */,
+				FA76BB71215FAA1300421A71 /* Linh Ka 66.jpg in Resources */,
+				FA76BB64215FAA1300421A71 /* Banner.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +358,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA76BB2A215FA9A300421A71 /* ViewController.swift in Sources */,
+				FA76BB75215FAB1E00421A71 /* DetailViewController.swift in Sources */,
 				FA76BB28215FA9A300421A71 /* AppDelegate.swift in Sources */,
+				FA76BB78215FABEA00421A71 /* CustomTableViewCell.swift in Sources */,
+				FA76BB73215FAA7F00421A71 /* MasterTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
